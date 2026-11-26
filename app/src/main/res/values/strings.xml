@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PushBack</string>
+    <string name="channel_coach">Coach</string>
+    <string name="channel_waste">Waste interrupt</string>
+    <string name="watchdog_title">Focus is live. Waste will be named.</string>
+</resources>

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "munger-invert-unemployed",
+    "thinker": "Charlie Munger",
+    "line": "Invert. What would guarantee you are still unemployed in twelve months? Then do none of that.",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "munger-stupid",
+    "thinker": "Charlie Munger",
+    "line": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "naval-equity",
+    "thinker": "Naval Ravikant",
+    "line": "If you don't own a piece of a business, you don't have a path toward financial freedom. Applications buy runway. Ownership buys wealth.",
+    "failureMode": "no_send"
+  },
+  {
+    "id": "naval-time",
+    "thinker": "Naval Ravikant",
+    "line": "You will never be worth more than you think you are. Value your time at an aspirational hourly rate and ruthlessly pull yourself out of anything below it.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "naval-leverage",
+    "thinker": "Naval Ravikant",
+    "line": "Fortunes require leverage. Code, media, capital, people. Renting your hours will never get you there.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "naval-specific",
+    "thinker": "Naval Ravikant",
+    "line": "Arm yourself with specific knowledge, accountability, and leverage. Then play long-term games with long-term people.",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "buffett-no",
+    "thinker": "Warren Buffett",
+    "line": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "buffett-compound",
+    "thinker": "Warren Buffett",
+    "line": "Life is like a snowball. The important thing is finding wet snow and a really long hill. Skill hours compound. Scroll hours do not.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "buffett-circle",
+    "thinker": "Warren Buffett",
+    "line": "Know your circle of competence and stay inside it. Targeted applications beat spray-and-pray.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "buffett-rule",
+    "thinker": "Warren Buffett",
+    "line": "Rule No. 1: never lose money. Rule No. 2: never forget rule No. 1. Protect runway. Do not skip the required work.",
+    "failureMode": "no_send"
+  },
+  {
+    "id": "bezos-regret",
+    "thinker": "Jeff Bezos",
+    "line": "Project yourself to age 80. Will you regret not sending the application, or regret the video you watched instead?",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "bezos-regret-day",
+    "thinker": "Jeff Bezos",
+    "line": "I knew that when I was 80 I was not going to regret having tried this. I knew I would regret not trying.",
+    "failureMode": "no_send"
+  },
+  {
+    "id": "musk-first",
+    "thinker": "Elon Musk",
+    "line": "Boil things down to the most fundamental truths and reason up from there. 'I need to feel ready' is not a fundamental truth.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "grove-output",
+    "thinker": "Andy Grove",
+    "line": "There are so many people working so hard and achieving so little. Output is what counts. Sent applications. Not tabs.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "grove-aar",
+    "thinker": "Andy Grove",
+    "line": "The work of a business is to inspect reality, then act. Skip the evening review and you are flying without instruments.",
+    "failureMode": "no_review"
+  },
+  {
+    "id": "drucker-effective",
+    "thinker": "Peter Drucker",
+    "line": "There is nothing so useless as doing efficiently that which should not be done at all.",
+    "failureMode": "fake_work"
+  },
+  {
+    "id": "seneca-time",
+    "thinker": "Seneca",
+    "line": "It is not that we have a short time to live, but that we waste a great deal of it.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "epictetus-control",
+    "thinker": "Epictetus",
+    "line": "Make the best use of what is in your power, and take the rest as it happens. Sending the application is in your power.",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "newport-deep",
+    "thinker": "Cal Newport",
+    "line": "Clarity about what matters provides clarity about what does not. If the quota is open, this app is waste.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "clear-identity",
+    "thinker": "James Clear",
+    "line": "Every action you take is a vote for the type of person you wish to become. Sending is a vote. Scrolling is a vote.",
+    "failureMode": "no_send"
+  },
+  {
+    "id": "oettingen-wish",
+    "thinker": "Gabriele Oettingen",
+    "line": "Positive fantasies make you feel accomplished without acting. Name the obstacle. Then the if-then.",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "gollwitzer-ifthen",
+    "thinker": "Peter Gollwitzer",
+    "line": "If this situation, then this action. Vague hope is not a plan. Write the if-then and run it.",
+    "failureMode": "avoidance"
+  },
+  {
+    "id": "taleb-ruin",
+    "thinker": "Nassim Taleb",
+    "line": "Never take a risk that can take you out of the game. Skip enough required days and the game is already over.",
+    "failureMode": "no_send"
+  },
+  {
+    "id": "munger-patience",
+    "thinker": "Charlie Munger",
+    "line": "The big money is not in the buying and selling, but in the waiting. Waiting is not scrolling. Waiting is compounding skill.",
+    "failureMode": "scrolling"
+  },
+  {
+    "id": "grove-review",
+    "thinker": "Military AAR",
+    "line": "What was supposed to happen. What happened. Why. What we do tomorrow. That is the review. Anything else is a diary.",
+    "failureMode": "no_review"
+  }
+]

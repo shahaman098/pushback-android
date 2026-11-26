@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.PushBack" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/ink</item>
+        <item name="android:navigationBarColor">@color/night</item>
+        <item name="android:windowBackground">@color/ink</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.PushBack.Interrupt" parent="Theme.PushBack">
+        <item name="android:statusBarColor">@color/debt</item>
+        <item name="android:navigationBarColor">@color/debt</item>
+        <item name="android:windowBackground">@color/debt</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
